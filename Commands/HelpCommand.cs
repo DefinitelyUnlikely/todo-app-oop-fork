@@ -1,4 +1,3 @@
-public class HelpCommand
+public class HelpCommand : Command
 {
-
 }
